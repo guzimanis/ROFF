@@ -38,7 +38,8 @@ Version is annotated using Zampiere et al [1] three level annotation scheme with
 
 
 ## Article
-Paper will be published soon in the Proceedings of [RANLP](https://ranlp.org/ranlp2021/start.php) 2021.
+The paper can be found on the ACL anthology page [here](https://aclanthology.org/2021.ranlp-1.102/).
+
 ## References
 <a id="1">[1]</a> 
 Zampieri et al. (2019). 
